@@ -1,0 +1,19 @@
+# виртуальные окружения
+.venv/
+.venv314/
+venv/
+env/
+
+# Python служебные файлы
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints
+
+# IDE
+.idea/
+.vscode/
+
+# прочее
+.DS_Store
